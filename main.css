@@ -1,0 +1,51 @@
+img{
+	width: 30%;
+}
+.container-center{
+	text-align: center;
+	margin-top: 100px;
+}
+
+.container h1{
+	font-family: 'Lobster', cursive;
+}
+.fa-instagram{
+	color: #CC0593;
+}
+.container{
+	text-align: center;
+}
+.txt{
+	width: 500px;
+	height: 100px;
+}
+
+button{
+	padding: 10px;
+}
+#cont div{
+	padding: 1em 0.5 em;
+	margin-bottom: 2em;
+	outline: 0.1em solid #E5E3F2;
+	background-color: #FFF;
+}
+
+.heart, .trash{
+	margin:1em;
+	float:right;
+}
+.trash:hover{
+	color:#1DA1F2;
+	cursor: pointer;
+}
+.strike-out{
+	text-decoration: line-through;
+	color: #1DA1F2;
+}
+.red{
+	color: #FC1E26;
+}
+.P{
+	display: inline-block;
+	margin-left: 0.5em;
+}
